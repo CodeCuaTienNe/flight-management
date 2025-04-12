@@ -1,13 +1,13 @@
-{
-  "R0001": {
+[
+  {
     "reservation_id": "R0001",
     "name": "Tien",
-    "address": "Heheh",
-    "phone_number": 9090909,
-    "identity_card_number": 9898098980980,
-    "reservation_flight_number": "F1234",
-    "seat_location": "30D",
+    "address": "JJJJ",
+    "phone_number": 9089809,
+    "identity_card_number": 80989080980980,
+    "reservation_flight_number": "F0002",
+    "seat_location": "3B",
     "checked_in": true,
-    "reservation_time": "2025-04-12T14:07:06.8599327+07:00"
+    "reservation_time": "2025-04-12T19:07:37.6209296+07:00"
   }
-}
+]
