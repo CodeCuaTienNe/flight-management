@@ -1,0 +1,8 @@
+module golang-airplane
+
+go 1.18
+
+require (
+    github.com/stretchr/testify v1.7.0
+    encoding/json v0.0.0-20211005123456-abcdef123456
+)
